@@ -1,0 +1,14 @@
+{
+  "name": "deepequal",
+  "version": "1.0.0",
+  "description": "deep equal comparison",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Piotr Karpala",
+  "license": "ISC"
+}
